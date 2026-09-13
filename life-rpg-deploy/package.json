@@ -1,0 +1,17 @@
+{
+  "name": "life-rpg",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server-node.js",
+    "preview": "node server-node.js"
+  },
+  "dependencies": {
+    "sirv": "^3.0.1",
+    "polka": "^0.5.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
